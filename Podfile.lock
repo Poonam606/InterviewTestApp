@@ -1,0 +1,22 @@
+PODS:
+  - BCryptSwift (1.1)
+  - NVActivityIndicatorView (4.4.0):
+    - NVActivityIndicatorView/Presenter (= 4.4.0)
+  - NVActivityIndicatorView/Presenter (4.4.0)
+
+DEPENDENCIES:
+  - BCryptSwift
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BCryptSwift
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  BCryptSwift: f69992ea5685f6714260842c2770688043b89ab2
+  NVActivityIndicatorView: ec7440a57af2450319d3a4181cca7da6fc127064
+
+PODFILE CHECKSUM: 92cd06d76136d43833cb8f0597eb34f56d9b7f0e
+
+COCOAPODS: 1.5.3
